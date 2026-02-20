@@ -36,7 +36,7 @@ export default function App() {
               <Gamepad2 size={24} />
             </div>
             <span className="text-xl font-bold tracking-tight text-zinc-100">
-              NEXUS<span className="text-emerald-500">GAMES</span>
+              BENZEMO<span className="text-emerald-500">GAMES</span>
             </span>
           </div>
 
@@ -153,11 +153,11 @@ export default function App() {
                 <Gamepad2 size={18} />
               </div>
               <span className="text-lg font-bold tracking-tight text-zinc-100">
-                NEXUS<span className="text-emerald-500">GAMES</span>
+                BENZEMO<span className="text-emerald-500">GAMES</span>
               </span>
             </div>
             <p className="text-sm text-zinc-500">
-              © 2026 Nexus Games. All rights reserved. Built for speed and accessibility.
+              © 2026 Benzemo Games. All rights reserved. Built for speed and accessibility.
             </p>
             <div className="flex gap-6">
               <a href="#" className="text-sm text-zinc-500 hover:text-emerald-500">Privacy</a>
