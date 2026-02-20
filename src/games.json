@@ -1,0 +1,50 @@
+[
+  {
+    "id": "2048",
+    "title": "2048",
+    "category": "Puzzle",
+    "thumbnail": "https://picsum.photos/seed/2048/400/300",
+    "iframeUrl": "https://play2048.co/",
+    "description": "Join the numbers and get to the 2048 tile!"
+  },
+  {
+    "id": "tetris",
+    "title": "Tetris",
+    "category": "Classic",
+    "thumbnail": "https://picsum.photos/seed/tetris/400/300",
+    "iframeUrl": "https://tetris.com/play-tetris",
+    "description": "The classic block-stacking puzzle game."
+  },
+  {
+    "id": "snake",
+    "title": "Snake",
+    "category": "Arcade",
+    "thumbnail": "https://picsum.photos/seed/snake/400/300",
+    "iframeUrl": "https://www.google.com/logos/2010/pacman10-i.html",
+    "description": "Classic arcade action."
+  },
+  {
+    "id": "chess",
+    "title": "Chess",
+    "category": "Strategy",
+    "thumbnail": "https://picsum.photos/seed/chess/400/300",
+    "iframeUrl": "https://www.chess.com/play/online",
+    "description": "Play the game of kings."
+  },
+  {
+    "id": "minesweeper",
+    "title": "Minesweeper",
+    "category": "Puzzle",
+    "thumbnail": "https://picsum.photos/seed/mines/400/300",
+    "iframeUrl": "https://minesweeper.online/game/1",
+    "description": "Clear the board without hitting any mines."
+  },
+  {
+    "id": "pacman",
+    "title": "Pac-Man",
+    "category": "Arcade",
+    "thumbnail": "https://picsum.photos/seed/pacman/400/300",
+    "iframeUrl": "https://www.google.com/logos/2010/pacman10-i.html",
+    "description": "Waka waka waka!"
+  }
+]
